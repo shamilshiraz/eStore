@@ -1,0 +1,15 @@
+/* Navbar */
+.nav-item{
+  margin-right: 40px;
+  
+}
+.container-fluid{
+    margin-left: 50px;
+    padding-inline: 30px;
+}
+th{
+    border:'1px solid white';
+}
+td{
+    border:'1px solid white';
+}
